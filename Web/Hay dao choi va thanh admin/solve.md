@@ -28,5 +28,5 @@ Sau khi "grep -v "404" result.txt", có 2 directoris chúng ta cần lưu ý, d�
 Tiếp theo cùng đến với bước 2.
 ### Bước 1 (cách khác): Rùa ![image](https://github.com/user-attachments/assets/286e50ef-7ef2-4bb8-bfc4-29ee68b2ab82) 
 ** Đây là cách lúc đầu mình dùng để giải, hên hên được luôn =))))  **
-Đầu tiên test ** https://notadmin.fia.io.vn/robots.txt ** theo phản xạ  
-Vì đề tên là trở thành admin, nên thử ** https://notadmin.fia.io.vn/admin ** luôn :)))
+Đầu tiên test https://notadmin.fia.io.vn/robots.txt theo phản xạ  
+Vì đề tên là trở thành admin, nên thử https://notadmin.fia.io.vn/admin luôn :)))
