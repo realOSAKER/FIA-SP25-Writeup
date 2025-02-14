@@ -31,4 +31,19 @@ Tiếp theo cùng đến với bước 2.
 ### Bước 1 (cách khác): Rùa ![image](https://github.com/user-attachments/assets/286e50ef-7ef2-4bb8-bfc4-29ee68b2ab82) 
 ** Đây là cách lúc đầu mình dùng để giải, hên hên được luôn =))))  **
 Đầu tiên test https://notadmin.fia.io.vn/robots.txt theo phản xạ  
-Vì đề tên là trở thành admin, nên thử https://notadmin.fia.io.vn/admin luôn :)))
+Vì đề tên là trở thành admin, nên thử https://notadmin.fia.io.vn/admin luôn :)))  
+
+### Bước 2:
+- Thử truy cập https://notadmin.fia.io.vn/admin, nhưng ta được "YOU DO NOT HAVE PERMISSION TO ACCESS THIS PAGE" và bị redirect về trang chính.  
+  Có vẻ như chúng ta không có quyền admin để truy cập.  
+- Thử truy cập https://notadmin.fia.io.vn/robots.txt, ta được:  
+  ```
+  User-agent: *
+Disallow: /s3cr3t-p@ssw0rd
+  ```
+- Bằng gợi ý đó, ta tiếp tục truy cập https://notadmin.fia.io.vn/s3cr3t-p@ssw0rd. Ta được 1 danh sách password siêu dài.
+
+#### Bằng tất cả những thông tin trên, ta liền nghĩ tới lỗ hổng bảo mật JWT.
+Chúng ta đến với bước 3.
+
+### Bước 3:
