@@ -1,11 +1,11 @@
 ## Hay dao choi va thanh admin
 
 # Thông tin về challenge:
-```
+
 **Author:** Mèo Bếu
 **Tags:** 
 **Description:** Một thử thách đơn giản, trở thành Admin của trang web và bạn có thể làm bất cứ điều gì bạn muốn.
 Chúc mọi người vượt qua thử thách hehehe
 **Hint:**
 **Link:** https://notadmin.fia.io.vn/
-```
+
