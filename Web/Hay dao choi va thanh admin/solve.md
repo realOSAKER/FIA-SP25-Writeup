@@ -49,6 +49,8 @@ Chúng ta đến với bước 3.
 ![image](https://github.com/user-attachments/assets/3736cada-da0a-4119-865d-ca35f60b7ced)
 #### Đầu tiên chúng ta sẽ thử "None Algorithm Attack".
 - Copy token đó và truy cập token.dev.
-- Chỉnh algorithm thành none.
+- Chỉnh algorithm thành none.  
+  ![image](https://github.com/user-attachments/assets/1228cb73-959a-4a29-baae-6d6b5b9b1d23)
+
 - Copy token mới và paste lại vào chỗ token trên web.(Nhớ thêm dấu chấm cuối token để làm nó vẫn valid).
 - Thử truy cập lại https://notadmin.fia.io.vn/admin, ta vẫn chưa có quyền admin, vậy là cách này đã thất bại.
