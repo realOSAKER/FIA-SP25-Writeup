@@ -1,4 +1,6 @@
 # Hay dao choi va thanh admin  
+![image](https://github.com/user-attachments/assets/c43dc1cb-a201-4fc2-a497-f3fcd3f95908)
+
 
 ## Thông tin về challenge:  
 
