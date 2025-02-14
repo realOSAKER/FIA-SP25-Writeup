@@ -36,14 +36,19 @@ Vì đề tên là trở thành admin, nên thử https://notadmin.fia.io.vn/adm
 ### Bước 2:
 - Thử truy cập https://notadmin.fia.io.vn/admin, nhưng ta được "YOU DO NOT HAVE PERMISSION TO ACCESS THIS PAGE" và bị redirect về trang chính.  
   Có vẻ như chúng ta không có quyền admin để truy cập.  
-- Thử truy cập https://notadmin.fia.io.vn/robots.txt, ta được:  
-  ```
-  User-agent: *
+- Thử truy cập https://notadmin.fia.io.vn/robots.txt, ta được:   
+ User-agent: *
 Disallow: /s3cr3t-p@ssw0rd
-  ```
 - Bằng gợi ý đó, ta tiếp tục truy cập https://notadmin.fia.io.vn/s3cr3t-p@ssw0rd. Ta được 1 danh sách password siêu dài.
 
 #### Bằng tất cả những thông tin trên, ta liền nghĩ tới lỗ hổng bảo mật JWT.
 Chúng ta đến với bước 3.
 
-### Bước 3:
+### Bước 3: Lấy JWT và bắt đầu tấn công.
+- Lấy JWT bằng F12 -> Application -> token -> value  
+![image](https://github.com/user-attachments/assets/3736cada-da0a-4119-865d-ca35f60b7ced)
+#### Đầu tiên chúng ta sẽ thử "None Algorithm Attack".
+- Copy token đó và truy cập token.dev.
+- Chỉnh algorithm thành none.
+- Copy token mới và paste lại vào chỗ token trên web.(Nhớ thêm dấu chấm cuối token để làm nó vẫn valid).
+- Thử truy cập lại https://notadmin.fia.io.vn/admin, ta vẫn chưa có quyền admin, vậy là cách này đã thất bại.
