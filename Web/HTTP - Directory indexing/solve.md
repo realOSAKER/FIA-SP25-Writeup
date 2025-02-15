@@ -20,7 +20,7 @@
 Keep digging, maybe there's something more valuable hidden deeper.".
 - Với thông tin trên, ta thử truy cập "https://nothttp.fia.io.vn/admin/", thì được 1 cái (có vẻ như) là admin panel.
   ![image](https://github.com/user-attachments/assets/af255de2-4593-4a2d-880f-18cf43e172ca)
-- Ngồi mò mò 1 hồi trong đống này thì ta tìm thấy flag ở:
+- Ngồi mò mò 1 hồi trong đống này thì ta tìm thấy flag ở: "https://nothttp.fia.io.vn/admin/backup/pass.html"
   ![image](https://github.com/user-attachments/assets/41f6f4ba-8812-4f5b-a7e3-d82e330800f4)
 
 ## Ta được flag: "FIA{D1rect0ry_L1sting_3xp0sed}"
