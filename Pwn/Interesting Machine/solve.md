@@ -161,5 +161,6 @@ int main(){
 ## FIA{in73g3r_0v3rfl0w_15_fun_righ7}
 
 # Một thông tin thú vị:
-Những ai chơi Genshin Impact từ 2021 trở về trước, có lẽ sẽ biết, đã từng có integer overflow và lượng damage nuke thành số âm:
+### Những ai chơi Genshin Impact từ 2021 trở về trước, có lẽ sẽ biết, đã từng có integer overflow và lượng damage nuke thành số âm:
+
 ![image](https://github.com/user-attachments/assets/b51efece-faf0-4c47-b16b-d1274841d226)
