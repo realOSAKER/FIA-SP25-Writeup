@@ -12,8 +12,8 @@
 - Challenge cho chúng ta 1 file .class của java.
 - Truy cập decompiler.com để decomplie
 - Ta được đoạn code
-  ```
-    import java.util.Random;
+```
+import java.util.Random;
 import java.util.Scanner;
 
 public class GamblingGuess {
@@ -143,7 +143,7 @@ public class GamblingGuess {
 - Do đoạn code sử dụng random với seed 2025L nên sẽ không "random" lắm, nó sẽ luôn ra 1 chuỗi nhất định.
 - Chúng ta sẽ viết 1 đoạn script để extract số và decrypt theo code mà đề cho.
   **Lưu ý**: Nếu dùng chatgpt để generate script thì mặc định chatgpt sẽ cho script random bằng python, khi chạy sẽ không ra flag, vì random trong java và python là khác nhau.
-  ```
+```
   import java.util.Random;  
 
 public class GamblingGuessSolver {  
@@ -170,7 +170,7 @@ public class GamblingGuessSolver {
         System.out.println("Flag: " + flag.toString());  
     }  
 }  
-  ```
+```
 - Chạy chương trình ta được flag
 ![image](https://github.com/user-attachments/assets/843fdf1f-40d4-4d35-a10f-e406d818fc18)
 
