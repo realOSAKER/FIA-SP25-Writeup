@@ -1,4 +1,4 @@
-# Don't forget me  
+# Socializing is hard for an introvert  
 
 ## Thông tin về challenge:  
 
