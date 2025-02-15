@@ -12,6 +12,7 @@
 - Challenge cho chúng ta 1 file .class của java.
 - Truy cập decompiler.com để decomplie
 - Ta được đoạn code
+  ```
     import java.util.Random;
 import java.util.Scanner;
 
@@ -129,7 +130,7 @@ public class GamblingGuess {
       var1.close();
    }
 }
-
+ ```
 
 ## Bước 2: Phân tích code.
 - Chương trình sử dụng Random(2025L) để tạo số ngẫu nhiên. ( Random var2 = new Random(2025L);)
