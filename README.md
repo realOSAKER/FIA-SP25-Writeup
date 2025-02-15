@@ -26,4 +26,7 @@ _Author: Vietnamese Baka_
 -- [Interesting machine](https://github.com/realOSAKER/FIA-SP25-Writeup/blob/main/Pwn/Interesting%20Machine/solve.md)
 -- [We Need You!!](https://github.com/realOSAKER/FIA-SP25-Writeup/blob/main/Pwn/We%20Need%20You!!/solve.md)
 
+- RE:
+-- [Gambler](https://github.com/realOSAKER/FIA-SP25-Writeup/blob/main/RE/Gambler/solve.md)
+
 
