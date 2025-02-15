@@ -31,7 +31,18 @@
     
     ```
 ![image](https://github.com/user-attachments/assets/689fab0b-72a5-43d1-bd06-f05be35cc790)  
-Ở bức ảnh con tàu ta thấy có đoạn hex lạ ngay title. Truy cập cyberchef.io
+
+Ở bức ảnh con tàu ta thấy có đoạn hex lạ ngay title. Truy cập cyberchef.io để thử và ta được đoạn base-64.
+
+![image](https://github.com/user-attachments/assets/5e588ff1-46f7-41b2-8056-c2f45e279653)  
+
+Tiếp tực thêm base-64 vào ta được flag: 
+
+![image](https://github.com/user-attachments/assets/91faa7db-abb7-48d2-a43e-4d33b4784727)  
+
+## Flag : FIA{Y0u_h@ve_fOund_th3_treasure_of_Eagleeeee}
+
+
 
 
 
