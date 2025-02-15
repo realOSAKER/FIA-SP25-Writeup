@@ -1,4 +1,4 @@
-# Don't forget me  
+# Gambler  
 
 ## Thông tin về challenge:  
 
