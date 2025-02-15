@@ -4,8 +4,8 @@
 
 **- Author:** Bory    
 **- Tags:** reverse, baby   
-**- Description:** Beat me boi
-**- Hint:** MV cho bài hát này đã được đăng trên niconico douga và cả YouTube với lươt view lần lượt là 120 vạn và 15 triệu lượt xem đấy.  
+**- Description:** Beat me boi  
+**- Hint:**   
 **- Link:**  
 
 ## Bước 1: Decompile file
