@@ -30,7 +30,7 @@
 ### Phần 5: 
 - Vào Source -> style.css ta được part 5: 4pp5_
 ### Phần 7:
-- Trong lúc tìm part 5, tãng cũng thấy được ở app.min.js có 1 cái note rất đáng ngờ "app.min.js.map"
+- Trong lúc tìm part 5, ta cũng thấy được ở app.min.js có 1 cái note rất đáng ngờ "app.min.js.map"
 - Thử /app.min.js.map, ta được part 7: c0d3!!}
 
 ## Flag hoàn chỉnh: FIA{ju57_k33p_c4lm_4nd_1n5p3c7_411_7h3_4pp5_50urc3_c0d3!!}
